@@ -3,7 +3,7 @@ Slack in your terminal (read-only)
 
 ## Setup
 
-Install Rust via ```curl https://sh.rustup.rs -sSf | sh`
+Install Rust via ```curl https://sh.rustup.rs -sSf | sh```
 
 ## Get Slack API Token
 
