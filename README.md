@@ -1,7 +1,7 @@
 # slacki
 Slack in your terminal (read-only)
 
-*My Use-Case:* Have a way to __not__ leave your terminal but still be able to read slack (and learn rust)
+*My Use-Case:* Have a way to __not__ leave your terminal but still be able to read slack (and have a reason to learn rust)
 
 ## Setup
 
