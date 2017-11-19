@@ -1,6 +1,8 @@
 # slacki
 Slack in your terminal (read-only)
 
+*My Use-Case:* Have a way to __not__ leave your terminal but still be able to read slack (and learn rust)
+
 ## Setup
 
 Install Rust via ```curl https://sh.rustup.rs -sSf | sh```
